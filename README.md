@@ -8,4 +8,4 @@ successful hits in a row as possible.
 Pyhon 3.6.6 or above
 
 ## SCREENSHOTS
-![Screenshot]( ./images/Screenshot(182).png )
+![Screenshot](../master/images/Screenshot(182).png )
