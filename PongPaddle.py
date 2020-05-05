@@ -1,6 +1,24 @@
 # PongPaddle Game in Python 3
 # reference @TokyoEdTech
 # Not using PyGame 
+##add readme
+'''# PongPaddle
+A basic arcade 'Pong' game using Turtle Library. 
+
+#### Reference: @TockyoEdTech
+
+## Installations:
+Python 3
+
+## Getting started
+Use git or the download button (on the right) to download the game source code.
+No dependencies.
+
+Run it on your Python IDE, the game should start, if not check for errors within any changes you might have made.
+
+'''
+#add sound: http://christianthompson.com/sites/default/files/Pong/pong.py
+
 
 import turtle 
 
